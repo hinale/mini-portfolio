@@ -13,3 +13,4 @@ Projeto criado durante o evento MapaDev Week feito [Dev em Dobro](https://www.yo
 
 **Primeira aula:** Criado toda a estrutura em HTML do projeto.
 **Segunda aula:** Feito a folha de estilo do projeto.
+**Terceira aula:** Desenvolvido toda parte em Javascript.
